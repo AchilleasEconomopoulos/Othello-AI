@@ -6,4 +6,4 @@ This is a command line implementation of the famous board game "Othello", a proj
 
 More details can be found in the relevant Report submitted below:
 
-[a relative link] (Othello-Report.pdf)
+[Project Report/Othello-Report.pdf] (Othello-Report.pdf)
