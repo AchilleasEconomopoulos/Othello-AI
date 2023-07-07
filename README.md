@@ -1,6 +1,5 @@
 #  Othello #
 
-----------
 
 ![An image of the board version of Othello](https://media.istockphoto.com/id/487309838/photo/othello.jpg?s=612x612&w=0&k=20&c=fB8Xb8zQSKuSmERhNCBhPLxw5JjG7FUZtUJRrj2MIwM=)
 
