@@ -5,7 +5,7 @@
 
 This is a command line implementation of the famous board game "Othello" using Java. This project was assigned as a prerequisite to pass the Artificial Intelligence course in the Informatics Department of the Athens University of Economics and Business.
 
-Extensive information about the project can be found here:
+Extensive information about the project can be found in greek here:
 
 **[Othello Project Description](Project%20Information/ai_assignment1_description.pdf)**
 
