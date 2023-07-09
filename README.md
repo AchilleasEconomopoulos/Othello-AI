@@ -7,6 +7,6 @@ This is a command line implementation of the famous board game "Othello" using J
 
 Extensive information about the project can be found here:
 
-**[Othello Project Description](Project%Information/ai_assignment1_description.pdf)**
+**[Othello Project Description](Project%20Information/ai_assignment1_description.pdf)**
 
 **[Othello Report](Project%20Information/Othello-Report.pdf)**
